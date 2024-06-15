@@ -1,0 +1,24 @@
+C:\Users\siboa\source\repos\Exersices\Shopping List\TheListLibrary\bin\Debug\net6.0\TheListLibrary.deps.json
+C:\Users\siboa\source\repos\Exersices\Shopping List\TheListLibrary\bin\Debug\net6.0\TheListLibrary.dll
+C:\Users\siboa\source\repos\Exersices\Shopping List\TheListLibrary\bin\Debug\net6.0\TheListLibrary.pdb
+C:\Users\siboa\source\repos\Exersices\Shopping List\TheListLibrary\obj\Debug\net6.0\TheListLibrary.csproj.AssemblyReference.cache
+C:\Users\siboa\source\repos\Exersices\Shopping List\TheListLibrary\obj\Debug\net6.0\TheListLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siboa\source\repos\Exersices\Shopping List\TheListLibrary\obj\Debug\net6.0\TheListLibrary.AssemblyInfoInputs.cache
+C:\Users\siboa\source\repos\Exersices\Shopping List\TheListLibrary\obj\Debug\net6.0\TheListLibrary.AssemblyInfo.cs
+C:\Users\siboa\source\repos\Exersices\Shopping List\TheListLibrary\obj\Debug\net6.0\TheListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\siboa\source\repos\Exersices\Shopping List\TheListLibrary\obj\Debug\net6.0\TheListLibrary.dll
+C:\Users\siboa\source\repos\Exersices\Shopping List\TheListLibrary\obj\Debug\net6.0\refint\TheListLibrary.dll
+C:\Users\siboa\source\repos\Exersices\Shopping List\TheListLibrary\obj\Debug\net6.0\TheListLibrary.pdb
+C:\Users\siboa\source\repos\Exersices\Shopping List\TheListLibrary\obj\Debug\net6.0\ref\TheListLibrary.dll
+C:\Users\siboa\Desktop\C#\Task1\TheListLibrary\bin\Debug\net6.0\TheListLibrary.deps.json
+C:\Users\siboa\Desktop\C#\Task1\TheListLibrary\bin\Debug\net6.0\TheListLibrary.dll
+C:\Users\siboa\Desktop\C#\Task1\TheListLibrary\bin\Debug\net6.0\TheListLibrary.pdb
+C:\Users\siboa\Desktop\C#\Task1\TheListLibrary\obj\Debug\net6.0\TheListLibrary.csproj.AssemblyReference.cache
+C:\Users\siboa\Desktop\C#\Task1\TheListLibrary\obj\Debug\net6.0\TheListLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siboa\Desktop\C#\Task1\TheListLibrary\obj\Debug\net6.0\TheListLibrary.AssemblyInfoInputs.cache
+C:\Users\siboa\Desktop\C#\Task1\TheListLibrary\obj\Debug\net6.0\TheListLibrary.AssemblyInfo.cs
+C:\Users\siboa\Desktop\C#\Task1\TheListLibrary\obj\Debug\net6.0\TheListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\siboa\Desktop\C#\Task1\TheListLibrary\obj\Debug\net6.0\TheListLibrary.dll
+C:\Users\siboa\Desktop\C#\Task1\TheListLibrary\obj\Debug\net6.0\refint\TheListLibrary.dll
+C:\Users\siboa\Desktop\C#\Task1\TheListLibrary\obj\Debug\net6.0\TheListLibrary.pdb
+C:\Users\siboa\Desktop\C#\Task1\TheListLibrary\obj\Debug\net6.0\ref\TheListLibrary.dll

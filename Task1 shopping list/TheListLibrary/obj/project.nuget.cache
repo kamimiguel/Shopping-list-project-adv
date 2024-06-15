@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6sDhwDJ81XV4hvQwMJIuiejBxJ8CCYfZQT/UFEMSwyavjb52T03RqS9ctG2To6gNiUjwXxWg3v1qrmBAWyIQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\siboa\\Desktop\\C#\\Task1\\TheListLibrary\\TheListLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\siboa\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
